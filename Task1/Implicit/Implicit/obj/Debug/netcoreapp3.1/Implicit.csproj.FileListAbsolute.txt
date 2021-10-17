@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.exe
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.deps.json
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.runtimeconfig.json
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.dll
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\bin\Debug\netcoreapp3.1\Implicit.pdb
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.dll
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.pdb
+C:\Users\HP\Desktop\Task1\Implicit\Implicit\obj\Debug\netcoreapp3.1\Implicit.genruntimeconfig.cache
